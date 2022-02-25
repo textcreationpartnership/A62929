@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Tonges vindication in answer to the malicious and lying aspersions thrown upon him by Thomson and the observator : veritas non quarit angulos.</title>
+            <author>Tonge, Simson, b. 1656 or 7.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62929</idno>
+            <idno type="STC">Wing T1885</idno>
+            <idno type="STC">ESTC R2481</idno>
+            <idno type="EEBO-CITATION">13439817</idno>
+            <idno type="OCLC">ocm 13439817</idno>
+            <idno type="VID">99561</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62929)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99561)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 478:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Tonges vindication in answer to the malicious and lying aspersions thrown upon him by Thomson and the observator : veritas non quarit angulos.</title>
+                  <author>Tonge, Simson, b. 1656 or 7.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the Author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Thompson, Nathaniel, d. 1687.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:99561:1" rendition="simple:additions"/>
+            <head>M<hi rend="sup">r.</hi> 
+               <hi>Tonges Vindication,</hi> In Anſwer to the Malicious and Lying Aſperſions thrown upon him by <hi>Thomſon</hi> and the <hi>Obſervator:</hi>
+            </head>
+            <epigraph>
+               <q xml:lang="lat">Veritas non quaerit Angulos.</q>
+            </epigraph>
+            <p>THe Preſs was never fuller of Seditious Pamphlets then at this time, wherein Men make it their chief buſineſs and Study to create Feuds and Animoſi<g ref="char:EOLhyphen"/>ties amongſt his Majeſties good Subjects, by crea<g ref="char:EOLhyphen"/>ting falſe Reports; for this Reaſon I thought I was bound in Conſcience to vindicate my ſelf from that ſcandalous and lying Aſperſion that <hi>Thomſon</hi> has thrown upon me in his <hi>Domeſtick Intelligence</hi> of the third inſtant, wherein he falſly intimates, as if I had formerly ſworn, that <hi>Ezerel Tonge</hi> was the chief contriver of the Popiſh-Plot, diſcovered by a Man, &amp;c. Therefore being deeply ſenſible of what evil conſequence this notorious Lye may be, do ſolemnly declare, that what was printed by the ſaid <hi>Thomſon,</hi> was done without my knowledge or conſent, having ſome time ſince, given a true and full Account of thoſe perſons (that would have tra<g ref="char:EOLhyphen"/>pan'd and indeavoured to make me ſwear, that my Father and Doctor <hi>Oates</hi> were the contrivers of the Popiſh-Plot) in my caſe which was printed by Mr. <hi>C—</hi> in the New Exchange in the Strand; but by ſome indirect means or other, was ſtifled, and never ſuffer'd to come abroad; in which Nar<g ref="char:EOLhyphen"/>rative, I have diſcovered nothing but the naked Truth, with the ſeveral Arguments and induce<g ref="char:EOLhyphen"/>ments they made uſe of, to make me accuſe my deceaſed Parent, and yet notwithſtanding all this, <hi>Thomſon</hi> and the Obſervator have the impudence to affirm the contrary; we live in a very profli<g ref="char:EOLhyphen"/>gate Age, wherein ſome perſons aſſume an unheard of impudence, who never value any mans Repu<g ref="char:EOLhyphen"/>tation, provided they may be gainers by what they print; I confeſs, and ingenuouſly acknow<g ref="char:EOLhyphen"/>ledge to the world, that indigency (through the inſtigation of men of ill principles) had imbarkt me on a very unnatural attempt, no leſs than the accuſing of my own innocent Parent, whilſt he was living<g ref="char:punc">▪</g> I was very ſenſible how cloſe my undu<g ref="char:EOLhyphen"/>tifulneſs ſtuck to him; and therefore by all imagi<g ref="char:EOLhyphen"/>nable Demonſtrations I endeavour'd to make my ſorrow known for ſo great a fault. Great ſinners we read of in Scripture that have upon their un<g ref="char:EOLhyphen"/>feigned Repentance been received unto Mercy: it has often been my ſerious and hearty Prayer to God through the merits of the bleſſed Jeſus, that he would vouchſafe to pardon me; and I hope my Prayers have been accepted at the Throne of Grace and truly during my confinement, now upwards of a twelve-month, in great want and diſtreſs, this was the greateſt content and ſatisfaction that buoy'd up my ſinking ſpirits, that I had diſcharged a good Conſcience, little expecting that any whi<g ref="char:EOLhyphen"/>fling Intelligencer, or Crackfarting Obſervator, would have been ſo impudent to have endeavoured to impoſe ſuch ſcandalous and lying Rumours up<g ref="char:EOLhyphen"/>on the Nation in reference to my concern; I have more than once by writing ſatisfied Doctor <hi>Oats</hi> (ſince I printed my Caſe) that I was extreamly troubled that I ſhould be ſo very imprudent to be perſwaded to go about to ſtifle his Evidence, and ſince my firſt commitment from the Council, it was my deſire to diſcover thoſe perſons that were my chief Abettors, which I have candidly laid down in my Narrative, and being nothing but the Truth, will vindicate it ſelf without any Apology, and however I may be cenſur'd by ſome, I bleſs God for it, I have not ſo fear'd a Conſcience as to ju<g ref="char:EOLhyphen"/>ſtify ſo falſe and Villanous a thing which is caſt upon me, in ſo weighty a concern as the Popiſh-Plot, which has had ſo many evident and remark<g ref="char:EOLhyphen"/>able proofs to confirm the verity of it, and maugre the malice of all oppoſers, remains invincible and triumphant, when the reſt of their ſhams dwindle and expire into nothing. The Obſervator who often turns the moſt ſerious expreſſions into ridicule, mentions how <hi>I</hi> was firſt trapan'd to ſuggeſt that ſtory againſt my Father, &amp;c. then he goes on with this impudent ſtuff, by way of diſtinction, all this may very well be Whig, but whether he meant the Father of his Country, or his Father by Gene<g ref="char:EOLhyphen"/>ration is the queſtion, &amp;c. To this <hi>I</hi> anſwer, that for my Vindication <hi>I</hi> do refer my ſelf to my Caſe and that it was not my own voluntary Act, will ſufficiently appear to thoſe that have ever perus'd it; neither did <hi>I</hi> veriſy or aſſert any thing by dreadful imprecations: for the firſt ground for that lying Rumour was, that <hi>Ely</hi> having heard that my Uncle, Captain <hi>Tonge,</hi> was with me, and that <hi>I</hi> had made a true Confeſſion to him concerning what had paſt betwixt us, fearing leaſt it might prejudice him; when he was at <hi>Windſor</hi> drew up a Paper, wherein he would have had me declared with many ſolemn imprecations, as in the preſence of God Almighty, that <hi>I</hi> had declar'd nothing but the Truth concerning my Father; this Paper he wou'd have forced me to Sign, but <hi>I</hi> perceiving the Villanous Deſign of it, refuſed it, it being no other than <hi>Ely's</hi> Roguery to ſave his own Bacon; but his Impudence, as it is ſuperlative, cannot reſt here; for thus he goes on, <hi>I</hi> do really believe he told the King little more, then he had ſaid many,
+<pb n="2" facs="tcp:99561:2"/>and many a time to other people long before he had made any application to his Majeſty;</p>
+            <p>To this <hi>I</hi> anſwer that Ely was the perſon who <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad me to the King who told me at the Garter Tavern in Windſor, that <hi>I</hi> muſt recollect my ſelf, and ſay ſomething which might give his Majeſty ſome ſatisfaction: when <hi>I</hi> came before the King <hi>I</hi> gave his Majeſty a ſhort account, as <hi>I</hi> had heard it from my fathers own mouth, that Doctor <hi>Oates</hi> after he came from St <hi>Omers</hi> firſt imparted the Plot to him, and afterwards gave him his aſſiſtance to bring his papers into the Concell; then <hi>I</hi> de<g ref="char:EOLhyphen"/>clar'd that <hi>I</hi> was wholy ignorant as to any Tranſ<g ref="char:EOLhyphen"/>actions relating to the Plot, by reaſon <hi>I</hi> was newly come from the Univerſity, and then kept a ſchool. at a place call'd <hi>Lu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on</hi> in <hi>Bedfordſhire,</hi> when the firſt diſcourſe of the Popiſh plot, was noiſed about the Countrye whereunto his Majeſty was pleaſed to replie, that he had been miſinform'd concerning me, but ſhould be very glad to be inform'd of the Truth, and would be glad to ſpeak, with my father, would be reſolve him but ſome few Que<g ref="char:EOLhyphen"/>ſtions he would propound to him.</p>
+            <p>This was all the Diſcourſe I had with the King, which <hi>I</hi> the rather mention now, becauſe I gave but a very ſhort hint of it in my Narrative; but the Obſervator abhors plain dealing, and to hear the Truth, and therefore ſtrives to palliat it by cunning ſubterfuges and Evaſions, the better to curry favour with his Party: Whilſt Truth is as bold as a Lyon and abhorring ſuch indi<g ref="char:EOLhyphen"/>rect meanes, ſoon unmasks this counterfet <hi>Pro<g ref="char:EOLhyphen"/>teus,</hi> notwithſtanding all the ſubtle windings he makes to no other purpoſe, then as prepa<g ref="char:EOLhyphen"/>ratives and incentives to Faction and Rebellion: creating fears and jealouſies in the hearts of the people, excellently well read in <hi>Pluto's</hi> politiks, whoſe faithfull Drudge he is notwithſtanding thoſe ſpecious Pretences he would impoſe on the over credulous, that what hedoes is onely out of a cor<g ref="char:EOLhyphen"/>date zeale for the ſervice of his King and Country.</p>
+            <p>And now having ſufficiently vindicated my ſelf, from the malicious and lying aſperſions put upon me by <hi>Thomſon,</hi> and the Obſervator I return to the Pa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>quetier, who amongſt them all is the onely perſon that has done me that Juſtice, candidly to repreſent my condition to the world, performing the part of an honeſt man, in declaring the great ſorrow wherewith my ſpi<g ref="char:EOLhyphen"/>rits have been oppreſſ'd for the unnaturall villany I was perſwaded to perpetrate againſt my decea<g ref="char:EOLhyphen"/>ſed Parent, and truely my Grief is ſo great for it; that many times I have had a ſerious reſolu<g ref="char:EOLhyphen"/>tion in my ſelf, (if it ſhould ple<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe God I ever got my Enlargement) to tranſport my ſelf to ſome remote Region, the horror of the fact having made ſo deep an impreſſion on my ſenti<g ref="char:EOLhyphen"/>ments, that I fancy'd I ſhould never be able to walk the ſtreets in quiet; but then again upon ſe<g ref="char:EOLhyphen"/>cond thoughts I have checkt my ſelf, and ſome<g ref="char:EOLhyphen"/>thing alleviated my ſorrows with that expreſſion of holy <hi>Job,</hi> to him that is aflicted Pitty ſhould be ſhewn him by his friend, conſidering with my ſell that we are or at leaſt ſhould be all Brethren and Friends of the ſame profeſſion of Chriſtianity, and therefore ſhould even with teares pitty the the miſeries, and paſs by the failings one of ano<g ref="char:EOLhyphen"/>ther flebile being as proper to man as viſibile; I did not then all together diſpair; that conſi<g ref="char:EOLhyphen"/>dering my juvenile years, ſhould I ever get a broad, ſome would commiſerate me, becoming truly penitent for my unnatural act, whilſt my Teares being inſtead of a <hi>Jordan,</hi> a pool of <hi>Siloam,</hi> to cure the ſores, and cleanſe the Leproſy of my ſinns</p>
+            <p>Since my longe reſtraint, means has not been wanting by ſome to make me recant my caſe uſing thoſe plauſible Arguments to induce me to it, which they are never without, to wit, Mony, Cloathes, Linne, a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d what elſe of conveniency, I could propoſe to my ſelf, being now in a very indigent condition on the common ſide of the Kings Bench; but honeſty as it is the beſt Policy, ſo a good co<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſcience is that which will bring a man peace at the laſt; and therfore contemning ſuch offers, I will rather reſt my ſelf contented with my mean condition, feaſting on the divine Providence, (extolling his unſpeakable goodneſs and mercy towards mee, who by afflicting has ſnatcht me as a firebrand out of the fire) who knows what is beſt for mee, then by unjuſt means gain the riches of <hi>Creſus,</hi> and with it the hatred of the Divinity, and the the contempt and ſc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rn of all good men; moſt perſons adore the riſing Sun, and when a man is once under a cloud, every one is too apt to trample upon, and expoſe him to the obloquy of a cenſorious World; therefore it behoves me to ſtand upon my Guard, and by the force of Truth repell thoſe vicious calumnies, which are caſt upon me; which I hope is here perform'd to the content and ſatisfaction of all true unblaſt proteſtants; and now having fully diſcharged a good conſcience the main end of this vindication; leaſt therefore I ſhould be thought too prolix, I will conclude all with this hearty prayer: God Allmighty vouchſafe to be propitious and mercy-full to us, unite all our differences and diſtractions, and regulate out diſorders, compoſe our Breaches, and heal our Land, bleſs and guide our gracious Soveraign and his whole Councell, that we may leade a peacable life in all godlineſs and honeſty.</p>
+            <p>I doe farther declare that from the bottome of of my heart, I abhorre all Popiſh principles and practizes, and am a zealous admirer and profeſſor of the Reformed Proteſtant Religion, as it is now eſtabliſht in the Church of England; and what I have ſayd here was upon mature deliberation, and I doe ſolemnely proteſt in the preſence of the great <hi>Jehovah,</hi> it is nothing but the Truth, witneſs my hand,</p>
+            <closer>
+               <signed>SIMSON TONGE.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON</hi> Printed for the Author. 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
